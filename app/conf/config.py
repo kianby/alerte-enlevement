@@ -5,6 +5,7 @@ import profig
 
 SITE_URL = "site.url"
 SITE_POLLING = "site.polling"
+SITE_ARTICLE_URL = "site.articleurl"
 
 # variable
 params = dict()
