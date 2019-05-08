@@ -4,6 +4,7 @@ certifi==2019.3.9
 chardet==3.0.4
 idna==2.8
 profig==0.4.1
+PyRSS2Gen==1.1
 pytz==2019.1
 requests==2.21.0
 six==1.12.0

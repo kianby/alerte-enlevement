@@ -5,6 +5,7 @@ import logging
 from conf import config
 import requests
 from bs4 import BeautifulSoup
+import datetime
 
 logger = logging.getLogger(__name__)
 
